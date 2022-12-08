@@ -81,7 +81,7 @@ section.module.parallax-1{
 }
 
 section.module.parallax-2{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_CsPZC9wobRW3jz5HjwyKPLMsPbeHQl8hQWzMX8T40nxHScrzoHM6C860VY1mRrKk9gg&usqp=CAU");
+  background-image: url("./2020-01-04.jpg");
 }
 
 section.module.parallax-3{
@@ -112,4 +112,19 @@ section.module.parallax h1{
   section.module.parallax h1 {
     font-size: 36px;
   }
+}
+video{
+  width: 420px;
+  height: 320;
+}
+footer{
+  text-align: center;
+  background: black;
+  color: white;
+  
+}
+h6{
+  margin-bottom: 0;
+  text-align: end;
+  padding-bottom: 0;
 }
