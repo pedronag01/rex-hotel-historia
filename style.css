@@ -20,6 +20,9 @@ body{
 h1,h2,h3,h4,h5,h6{
   font-weight: 900;
   color: #000;
+  text-transform: uppercase;
+  text-align: justify;
+  
 }
 
 .wrapper{
@@ -124,9 +127,10 @@ section.module.parallax h1{
   }
 }
 video{
-  width: 320px;
-  height: 240;
+  width: 95%;
+  height: auto;
   margin-bottom: 60px;
+  
 }
 footer{
   text-align: center;
@@ -147,4 +151,5 @@ p{
 }
 h2{
   text-align: center;
+  font-size: 50px;
 }
